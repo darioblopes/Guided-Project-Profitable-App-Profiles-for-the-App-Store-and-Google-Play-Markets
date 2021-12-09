@@ -2,7 +2,7 @@
 My first guided project, in my Python Programming Course. 
 
 The goal of working on this project was:
-To gain an outlook on what a job for a data scientist may look like. The hands on experience
+To gain an outlook on what jobs as a data scientist may look like. The hands on experience
 provided more familiarity with Jupyter Notebook! My favorite part was learning about ASCII Table
 since this can come in handy for the future.
 
