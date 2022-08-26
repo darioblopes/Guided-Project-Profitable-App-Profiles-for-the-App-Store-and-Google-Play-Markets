@@ -1,6 +1,6 @@
 # Guided-Project-Profitable-App-Profiles-for-the-App-Store-and-Google-Play-Markets
-My first guided project, in my Python Programming Course. 
 
+My first guided project, in my Python Programming Course. 
 The goal of working on this project was:
 To gain an outlook on what jobs as a data scientist may look like. The hands on experience
 provided more familiarity with Jupyter Notebook! My favorite part was learning about ASCII Table
